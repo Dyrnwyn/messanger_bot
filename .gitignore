@@ -1,0 +1,9 @@
+/.ipynb_checkpoints
+/.vscode
+/Untitled.ipynb
+/db_msg_bot.sqlite3
+/manage.py
+/msg_bot.code-workspace
+/messanger_bot
+/telegramm_bot/migrations
+*.pyc
